@@ -1,0 +1,13 @@
+{
+  "name": "easychat-server",
+  "version": "1.0.0",
+  "description": "Socket server to communicate with easychat vuejs client",
+  "main": "server.js",
+  "repository": "https://github.com/aashu/easychat-server",
+  "author": "Ashutosh Malviya",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "socket.io": "^4.4.0"
+  }
+}
